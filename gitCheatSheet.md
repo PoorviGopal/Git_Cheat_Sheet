@@ -261,4 +261,12 @@ Automatic merge failed; fix conflicts and then commit the result
 - A fork is a new repository that inherits code and visibility settings from the original "upstream" repository.
 - Forking essentially creates a rough copy of the original repository.
 - You have the option to visit someone else's repository and fork it to your account, enabling you to make modifications.
-- To merge the changes made to their main branch, you need to send a pull request to the owner through GitHub, requesting them to review and potentially integrate your changes. 
+- To merge the changes made to their main branch, you need to send a pull request to the owner through GitHub, requesting them to review and potentially integrate your changes.
+
+
+
+## Author
+
+- [Poorvi Gopal](https://github.com/PoorviGopal)
+- Email: poorviadt@gmail.com
+
