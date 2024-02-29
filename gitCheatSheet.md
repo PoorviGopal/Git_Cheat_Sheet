@@ -227,7 +227,7 @@ git push -u origin main
 
 **Merge conflicts** :
 
-- If the changes found in same line, or if it is conflicting the we ill face this warining!.
+- If the changes found in same line, or if it is conflicting the we will face the below given warining!.
 - In this case we have to manually make changes in the code editor.
 
 ```bash
